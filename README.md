@@ -1,5 +1,5 @@
 # Graph
-A simple implementation of graph using matrix of adjacencies.
+A simple implementation of graph using Adjacency matrix
 
 
 #Step 1
